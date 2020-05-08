@@ -1,0 +1,100 @@
+/* Settings Begin */
+body {    
+    padding-top: 100px;
+    font-family: 'Karma', serif;
+    font-size: 15px;
+    color: #000;
+}
+
+a, a:hover {
+    color: rgba(0,0,0,.9);
+    text-decoration: none;
+}
+/* Settings End */
+
+/* Navbar Begin */
+.bg-light {
+    background-color: #FFFFFF !important;
+}
+
+.navbar .nav-link, .navbar button{
+    font-size: 24px;
+}
+
+.navbar-light .navbar-toggler {
+    border: none;
+    color: rgba(0,0,0,.9);
+}
+
+.navbar-brand {
+    font-size: 26px;
+    margin-right: 0px;
+}
+/* Navbar End */
+
+/* Foods Begin */
+#foods {
+    margin-bottom: 40px;
+}
+
+.card {
+    width: 22rem;
+}
+
+.border-none {
+    border: none;
+}
+
+.card-body {
+    padding: 1.25rem 0px;
+}
+
+.card-img, .card-img-top {
+    border-radius: 0px;
+}
+/* Foods End */
+
+/* Pagination Begin */
+#pagination {
+    margin-bottom: 60px;
+}
+
+.page-link {
+    color: rgba(0,0,0,.9);
+    border: none;
+}
+
+.page-item.active .page-link {
+    background-color: #000;
+}
+/* Pagination End */
+
+hr {
+    margin-bottom: 70px;
+}
+
+#about {
+    margin-bottom: 100px;
+}
+
+/* Blog Posts Begin */
+.horizontal-card img {
+    margin-right: 15px;
+}
+.horizontal-card h5{
+    margin-bottom: 5px;
+    font-size: 110%;
+}
+
+.horizontal-card p {
+    font-size: 95%;
+}
+
+#blog-posts-hr {
+    margin-bottom: 1rem;
+}
+/* Blog Posts End */
+
+footer {
+    padding-bottom: 50px;
+}
