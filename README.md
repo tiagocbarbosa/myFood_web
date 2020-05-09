@@ -9,10 +9,8 @@ My Food is my personal project created to apply my Bootstrap knowledge.
 ### Tecnologies envolved
 HTML 5, CSS 3, Bootstrap 4 and JQuery.
 
-### My Food web page
+### Website My Food
 Link: https://tiagocbarbosa.github.io/myFood_web/html/index.html
-
-## Website My Food
 
 ### Characteristics
 
