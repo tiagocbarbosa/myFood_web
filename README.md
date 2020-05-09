@@ -10,7 +10,7 @@ My Food is my personal project created to apply my Bootstrap knowledge.
 HTML 5, CSS 3, Bootstrap 4 and JQuery.
 
 ### Website My Food
-Link: https://tiagocbarbosa.github.io/myFood_web/html/index.html
+URL: https://tiagocbarbosa.github.io/myFood_web/html/index.html
 
 ### Characteristics
 
