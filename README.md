@@ -27,3 +27,7 @@ URL: https://tiagocbarbosa.github.io/myFood_web/html/index.html
 <kbd><img src="readMeFiles/redirection.gif" />
 
 * "Mail" and "tiagocbarbosa" (a A html tag in the botton of the page) will send the user to my GitHub profile.
+
+------
+
+Made by Tiago Barbosa. <a href="www.linkedin.com/in/tiagocastrobarbosa" target="_blank">Get in touch!</a>
