@@ -17,7 +17,7 @@ Link: https://tiagocbarbosa.github.io/myFood_web/html/index.html
 ### Characteristics
 
 * It is responsive:  
-![Gif teste](readMeFiles/responsive.gif)
+<kbd><img src="readMeFiles/responsive.gif" />
 
 * It has navbar mobile menu... even on mobile viewport:  
 ![Gif teste](readMeFiles/mobileNavbar.gif)
