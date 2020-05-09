@@ -18,13 +18,15 @@ URL: https://tiagocbarbosa.github.io/myFood_web/html/index.html
 <kbd><img src="readMeFiles/responsive.gif" />
 
 * It has navbar mobile menu... even on mobile viewport:  
-<kbd><img src="readMeFiles/mobileNavbar.gif" />
+<p align="center">
+  <kbd><img src="readMeFiles/mobileNavbar.gif" width="402" />
+</p>
 
 * The navbar is fixed on the top:  
-<kbd><img src="readMeFiles/fixedNavbar.gif" />
+<kbd><img src="readMeFiles/fixedNavbar.gif" width="402" />
 
 * The nav links from navbar redirects the page to the Food and About section:  
-<kbd><img src="readMeFiles/redirection.gif" />
+<kbd><img src="readMeFiles/redirection.gif" width="402" />
 
 * "Mail" and "tiagocbarbosa" (a A html tag in the botton of the page) will send the user to my GitHub profile.
 
