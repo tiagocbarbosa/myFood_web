@@ -29,7 +29,7 @@ URL: https://tiagocbarbosa.github.io/myFood_web/html/index.html
   <kbd><img src="readMeFiles/fixedNavbar.gif" width="402" />
 </p>
 
-* The nav links from navbar redirects the page to the Food and About section:  
+* The navbar nav links redirects the page to the Food and About section:  
 <p align="center">
   <kbd><img src="readMeFiles/redirection.gif" width="402" />
 </p>
