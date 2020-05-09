@@ -38,4 +38,4 @@ URL: https://tiagocbarbosa.github.io/myFood_web/html/index.html
 
 ------
 
-Made by Tiago Barbosa. <a href="https://www.linkedin.com/in/tiagocastrobarbosa" target="_blank">Get in touch!</a>
+Made by Tiago Barbosa. <a href="https://www.linkedin.com/in/tiagocastrobarbosa">Get in touch!</a>
