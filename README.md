@@ -1,13 +1,12 @@
 # My Food Web Project
 
-This is my first web project using Bootstrap technology. This web page was based on one of the W3Schools free templates available.
+This is My Food web project using Bootstrap technology. This web page was based on one of the W3Schools free templates availables.
 
 ## About
-
 My Food is my personal project created to apply my Bootstrap knowledge.
 
 ### Tecnologies envolved
-HTML 5, CSS 3, Bootstrap 4 and JQuery.
+`bootstrap4` `jquery` `javascript`
 
 ### Website My Food
 URL: https://tiagocbarbosa.github.io/myFood_web/html/index.html
@@ -38,4 +37,7 @@ URL: https://tiagocbarbosa.github.io/myFood_web/html/index.html
 
 ------
 
-Made by Tiago Barbosa. <a href="https://www.linkedin.com/in/tiagocastrobarbosa">Get in touch!</a>
+Hope you enjoyed it, get in touch!
+
+<a href="mailto:tiagocastrobarbosa@gmail.com" title="Email to tiagocastrobarbosa@gmail.com"><img src="https://img.shields.io/badge/%40-email-informational"></a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagocastrobarbosa/)](https://www.linkedin.com/in/tiagocastrobarbosa/)
