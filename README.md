@@ -5,7 +5,7 @@ This is My Food web project using Bootstrap technology. This web page was based 
 ## About
 My Food is my personal project created to apply my Bootstrap knowledge.
 
-### Tecnologies envolved
+### Technologies involved
 `bootstrap4` `jquery` `javascript`
 
 ### Website My Food
